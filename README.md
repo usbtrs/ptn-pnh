@@ -1,2 +1,1 @@
 # ptn-pnh
-stop war
